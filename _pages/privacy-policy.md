@@ -6,18 +6,11 @@ include_in_footer: true
 ---
 
 **Last updated**  
-October 28 2021
+July 10 2022
 
 # Privacy Policy
 
-Catima does not collect or transmit any personal information.
-
-To ensure correct app functionality, we require access to the following:
-
-- Camera: We need access to your camera to be able to scan barcodes. The app can still be used when camera access is denied, but you will have to manually type the barcode information.
-- Storage: We need access to your device storage to create or import backups. The app can still be used when storage access is denied, but you will not be able to create or import backups.
-
-Catima offers a feature to share cards with other users. All the relevant data is in the generated shareable URLs and never transmitted to our servers. When viewed through catima.app, the data in the URL is rendered using client-side Javascript to further ensure no data is ever transmitted to us.
+Infusion Tea Timer does not collect or transmit any personal information.
 
 # Changes
 
@@ -28,4 +21,4 @@ checking this history of this file in GitHub.
 
 # Contact us
 If you have any questions regarding privacy while using the Application, or have questions about our practices,
-please contact us via email at catima.g9ex3@hackerchick.me.
+please contact us via email at contact@sesu8642.de.
