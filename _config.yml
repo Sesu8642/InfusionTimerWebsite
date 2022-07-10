@@ -1,61 +1,49 @@
 #page title
-page_title: Catima - The Libre Card Wallet # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
+page_title: Infusion Tea Timer # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
 
 # App Info
 #ios_app_id: 1234793120 # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
 #ios_app_country: us # Required outside USA. Enter 2 letter country code as in https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2
 
 appstore_link: # Automatically populates if not set and if iOS app ID is set. Otherwise enter manually.
-playstore_link: https://play.google.com/store/apps/details?id=me.hackerchick.catima # Enter Google Play Store URL.
-fdroid_link: https://f-droid.org/en/packages/me.hackerchick.catima/
+playstore_link: https://play.google.com/store/apps/details?id=com.sesu8642.infusion_timer # Enter Google Play Store URL.
+fdroid_link: https://f-droid.org/packages/com.sesu8642.infusion_timer/
 #presskit_download_link: https://emilbaehr.com # Enter a link to downloadable file or (e.g. public Dropbox link to a .zip file). Or upload your press kit file to assets and set path accordingly (e.g. "assets/your_press_kit.zip").
 
 app_icon: assets/appicon.png # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
-app_name: Catima # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
+app_name: Infusion Tea Timer # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price: Free # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description: A Loyalty Card & Ticket Manager for Android
+app_description: Tea timer app made with Flutter. Its unique feature is that it supports multiple infusions. The app comes with a defaul list of teas, but you can also add your own.
 
 enable_smart_app_banner: false # Set to true to show a smart app banner at top of page on mobile devices.
 
 # Information About Yourself
-your_name: The Catima Community
-your_link: https://github.com/CatimaLoyalty/Android/graphs/contributors
-email_address: catima.g9ex3@hackerchick.me
+your_name: Sesu8642
+your_link: https://github.com/Sesu8642
+email_address: contact@sesu8642.de
 facebook_username:
 instagram_username:
 twitter_username:
-github_username: CatimaLoyalty
+github_username: Sesu8642
 youtube_username:
 
 # Feature List
 # Edit, add or remove features to be presented.
 features:
 - title: Truly Free
-  description: No ads, no tracking, no nonsense. <a href="https://github.com/TheLastProject/Catima">Open Source</a> because we have nothing to hide.
-  fontawesome_icon_name: star
+  description: No ads, no tracking, no nonsense. <a href="https://github.com/Sesu8642/InfusionTimer">Open Source</a> because we have nothing to hide.
+  fontawesome_icon_name: hand-fist
 
-- title: Easy As 1-2-3
-  description: Just scan and go with the build-in barcode scanner.
-  fontawesome_icon_name: magic
+- title: Ready To Go
+  description: Comes with brewing instructions for common tea types.
+  fontawesome_icon_name: list
 
-- title: Add Any Store
-  description: Supports more than 10 different barcode types.
-  fontawesome_icon_name: store
-
-- title: Sharing Is Caring
-  description: Easily share cards with other users, even if they don't have Catima installed.
-  fontawesome_icon_name: share-alt
-
-- title: Multilingual
-  description: Available in more than 25 <a href="https://hosted.weblate.org/engage/catima/">community-contributed</a> languages.
-  fontawesome_icon_name: globe
-
-- title: Own Your Data
-  description: Export your data with just a single press of a button.
-  fontawesome_icon_name: file-export
+- title: Add Your Own
+  description: Supports adding your own teas.
+  fontawesome_icon_name: plus
 
 links:
-  - url: https://github.com/CatimaLoyalty
+  - url: https://github.com/Sesu8642/InfusionTimer
     title: Source Code
 
 # Theme Settings

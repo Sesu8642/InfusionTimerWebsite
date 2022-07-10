@@ -1,4 +1,4 @@
-# Catima Website
+# InfusionTimer Website
 
 Based on [Automatic App Landing Page](https://github.com/emilbaehr/automatic-app-landing-page).
 
